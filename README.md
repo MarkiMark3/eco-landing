@@ -1,4 +1,8 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Author: Markiyan Dmyterko
+
+1.The Eco-cosmetics page is a project that focuses on simple yet captivating front-end development and responsive design
+2.Technologies Used: HTML, SCSS, Stylelint(for CSS linting)
+
+- [DEMO LINK](https://MarkiMark3.github.io/eco-landing/)
+- [REPO LINK](https://github.com/MarkiMark3/eco-landing)
+- [MOCKUP LINK](https://www.figma.com/design/Fz588JKGuPS2Bk21De4KE5/Brand-of-eco-cosmetics-_FE-students?t=YlQRJItk17KjbQgr-0)
